@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+    <title>CTI Alerts</title>
+    <link>https://usuario.github.io/cti-rss-feed/</link>
+    <description>Feed CTI</description>
+
+    <item>
+        <title>Leak detectado</title>
+        <description>Dominio afectado: ejemplo.com</description>
+        <guid>20260813-001</guid>
+        <pubDate>Thu, 13 Aug 2026 09:00:00 GMT</pubDate>
+    </item>
+
+</channel>
+</rss>
