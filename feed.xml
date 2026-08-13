@@ -1,32 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
-    <title>Mi Sitio Web</title>
-    <link>https://misitio.com</link>
-    <description>Actualizaciones de mi sitio web</description>
-    <item>
-      <title>Primera entrada</title>
-      <link>https://misitio.com</link>
-      <description>Resumen de la primera entrada.</description>
-    </item>
-    <item>
-      <title>Segunda entrada</title>
-      <link>https://raw.githubusercontent.com/heroeenzapatillas/c7d6fb73-58f1-4c0c-bb9f-9de37e2a6f44/refs/heads/main/feed.xml</link>
-      <description>[2026-08-13] repsolar[.]sharepoint[.]com
-      </description>
-    </item>
-    <item>
+    <title>Listado de sharepoints</title>
+    <link>https://www.google.com</link>
+    <description>Actualizaciones de sitios</description>
+    
+   <item>
       <title>WhatsApp rolls out new feature that flags potential scam messages</title>
       <link>https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/</link>
-      <pubDate>Thu, 13 Aug 2026 08:50:22 -0400</pubDate>
+      <pubDate>Thu, 13 Aug 2026 15:37:45 +0000</pubDate>
       <description>
-<![CDATA[  	[2026-08-13] repsold[.]sharepoint[.]com
-	[2026-08-13] repsolmc[.]sharepoint[.]com
-	[2026-08-13] repsolssp[.]sharepoint[.]com
-        [2026-08 ]]>
+       <![CDATA[ [2026-08-13] repsolar[.]sharepoint[.]com
+[2026-08-13] repsold[.]sharepoint[.]com
+[2026-08-13] repsolmc[.]sharepoint[.]com
+[2026-08-13] repsolssp[.]sharepoint[.]com
+[2026-08-13] vetrepsol[.]sharepoint[.]com ]]>
       </description>
      </item>  
-
-
   </channel>
-</rss>
+  </rss>
