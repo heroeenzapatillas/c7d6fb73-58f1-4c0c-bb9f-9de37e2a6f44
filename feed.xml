@@ -1,37 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
-<channel>
-    <title>CTI Alerts</title>
-    <link>https://usuario.github.io/cti-rss-feed/</link>
-    <description>Feed CTI</description>
-
+  <channel>
+    <title>Mi Sitio Web</title>
+    <link>https://misitio.com</link>
+    <description>Actualizaciones de mi sitio web</description>
     <item>
-        <title>Leak detectado</title>
-        <description>Dominio afectado: ejemplo.com</description>
-        <guid>20260813-000</guid>
-        <pubDate>Thu, 13 Aug 2026 09:00:00 GMT</pubDate>
+      <title>Primera entrada</title>
+      <link>https://misitio.com</link>
+      <description>Resumen de la primera entrada.</description>
     </item>
-
-<item>
-    <title>Primer evento CTI</title>
-    <description>Prueba desde AWS</description>
-    <guid>20260813-0001</guid>
-    <pubDate>Thu, 13 Aug 2026 09:45:00 GMT</pubDate>
-</item>
-
-<item>
-    <title>Segundo evento CTI</title>
-    <description>Prueba desde AWS</description>
-    <guid>20260813-0002</guid>
-    <pubDate>Thu, 13 Aug 2026 09:45:00 GMT</pubDate>
-</item>
-<item>
-    <title>Segundo evento CTI</title>
-    <description>Prueba desde AWS</description>
-    <guid>20260813-0003</guid>
-    <pubDate>Thu, 13 Aug 2026 11:19:00 GMT</pubDate>
-</item>
-
-</channel>
+  </channel>
 </rss>
-<!-- test -->
