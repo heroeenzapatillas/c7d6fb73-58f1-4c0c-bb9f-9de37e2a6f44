@@ -8,7 +8,7 @@
     <item>
         <title>Leak detectado</title>
         <description>Dominio afectado: ejemplo.com</description>
-        <guid>20260813-001</guid>
+        <guid>20260813-000</guid>
         <pubDate>Thu, 13 Aug 2026 09:00:00 GMT</pubDate>
     </item>
 
@@ -22,14 +22,14 @@
 <item>
     <title>Segundo evento CTI</title>
     <description>Prueba desde AWS</description>
-    <guid>20260813-0001</guid>
+    <guid>20260813-0002</guid>
     <pubDate>Thu, 13 Aug 2026 09:45:00 GMT</pubDate>
 </item>
 <item>
     <title>Segundo evento CTI</title>
     <description>Prueba desde AWS</description>
-    <guid>20260813-0001</guid>
-    <pubDate>Thu, 13 Aug 2026 09:45:00 GMT</pubDate>
+    <guid>20260813-0003</guid>
+    <pubDate>Thu, 13 Aug 2026 11:19:00 GMT</pubDate>
 </item>
 
 </channel>
