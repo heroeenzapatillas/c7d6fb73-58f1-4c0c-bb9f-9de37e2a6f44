@@ -9,5 +9,15 @@
       <link>https://misitio.com</link>
       <description>Resumen de la primera entrada.</description>
     </item>
+    <item>
+      <title>Segunda entrada</title>
+      <link>https://raw.githubusercontent.com/heroeenzapatillas/c7d6fb73-58f1-4c0c-bb9f-9de37e2a6f44/refs/heads/main/feed.xml</link>
+      <description>[2026-08-13] repsolar[.]sharepoint[.]com
+	[2026-08-13] repsold[.]sharepoint[.]com
+	[2026-08-13] repsolmc[.]sharepoint[.]com
+	[2026-08-13] repsolssp[.]sharepoint[.]com
+        [2026-08-13] vetrepsol[.]sharepoint[.]com
+      </description>
+    </item>
   </channel>
 </rss>
