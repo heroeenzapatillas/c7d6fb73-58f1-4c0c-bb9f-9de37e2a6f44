@@ -1,17 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
-  <channel>
-    <title>Listado de sharepoints</title>
-    <link>https://www.google.com</link>
-    <description>Actualizaciones de sitios</description>
-    
-   <item>
-      <title>Los sharepoints del día 2026-08-14 </title>
-      <link>https://github.com/heroeenzapatillas/c7d6fb73-58f1-4c0c-bb9f-9de37e2a6f44/blob/main/0ef08824-f441-406a-bc62-fac237d62d05</link>
-      <guid>https://raw.githubusercontent.com/heroeenzapatillas/c7d6fb73-58f1-4c0c-bb9f-9de37e2a6f44/0ef08824-f441-406a-bc62-fac237d62d05.txt</guid>
-      <pubDate>Fri, 14 Aug 2026 09:04:15 +0000</pubDate>
-      <description>
-       <![CDATA[ 
+
+
 itglobalta.ns.e.workers.dev
 itglobalta.ns.email.workers.dev
 itglobalta.ns.workers.dev
@@ -5832,9 +5820,6 @@ repsolar.sharepoint.com
 repsold.sharepoint.com
 repsolmc.sharepoint.com
 repsolssp.sharepoint.com
-vetrepsol.sharepoint.com 
-       ]]>
-      </description>
-     </item>  
-  </channel>
-  </rss>
+vetrepsol.sharepoint.com
+
+
