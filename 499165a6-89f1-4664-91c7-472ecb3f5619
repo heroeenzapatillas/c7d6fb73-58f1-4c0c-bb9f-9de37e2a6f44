@@ -1,17 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
-  <channel>
-    <title>Listado de sharepoints</title>
-    <link>https://www.google.com</link>
-    <description>Actualizaciones de sitios</description>
-    
-   <item>
-      <title>Los sharepoints del día 2026-09-14 </title>
-      <link>https://github.com/heroeenzapatillas/c7d6fb73-58f1-4c0c-bb9f-9de37e2a6f44/blob/main/499165a6-89f1-4664-91c7-472ecb3f5619</link>
-      <guid>https://raw.githubusercontent.com/heroeenzapatillas/c7d6fb73-58f1-4c0c-bb9f-9de37e2a6f44/499165a6-89f1-4664-91c7-472ecb3f5619.txt</guid>
-      <pubDate>Mon, 14 Sep 2026 11:51:36 +0000</pubDate>
-      <description>
-       <![CDATA[ 
+
+
 repsolar.onmicrosoft.com
 repsolar.sharepoint.com
 repsolbarbara.onmicrosoft.com
@@ -57,9 +45,6 @@ vetrepsol.sharepoint.com
 [2026-09-14]
 [2026-09-14]
 [2026-09-14]
-[2026-09-14] 
-       ]]>
-      </description>
-     </item>  
-  </channel>
-  </rss>
+[2026-09-14]
+
+
